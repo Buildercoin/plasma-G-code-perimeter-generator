@@ -1,5 +1,5 @@
-# plasma-G-code-perimiter-generator
-CNC plasma G-code perimiter generator
+# plasma-G-code-perimeter-generator
+CNC plasma G-code perimeter generator
 Hi ,
 this little software will take a g-code.TXT file find the furthest X and Y, generate a g-code to dry run only to does x and y, come back to 0,0 and then pause till cycle start or cancel.
 you are also able to choose your favorite feed for that dry run.
